@@ -2,8 +2,6 @@ package POO.Guanabara.Aula12;
 
 public class Ave extends Animal
 {
-    private String corPena;
-
     @Override
     public void locomover() {
         System.out.println("Voando");
