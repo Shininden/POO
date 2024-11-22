@@ -4,16 +4,25 @@ public class ClassePrincipal
 {
     public static void main(String[] args) 
     {
+        @SuppressWarnings("unused")
         Mamifero m = new Mamifero();
+        @SuppressWarnings("unused")
         Reptil r = new Reptil();
+        @SuppressWarnings("unused")
         Peixe p = new Peixe();
+        @SuppressWarnings("unused")
         Ave a = new Ave();
 
+        @SuppressWarnings("unused")
         Kangoroo k = new Kangoroo();
         Cachorro c = new Cachorro();
+        @SuppressWarnings("unused")
         Cobra s = new Cobra();
+        @SuppressWarnings("unused")
         Tartaruga t = new Tartaruga();
+        @SuppressWarnings("unused")
         Goldfish g = new Goldfish();
+        @SuppressWarnings("unused")
         Arara ar = new Arara();
 
         c.reagir("Ola");
