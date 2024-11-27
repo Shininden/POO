@@ -1,4 +1,4 @@
-package POO.NelioAlves;
+package POO.NelioAlves.ContaBancaria;
 
 import java.util.Scanner;
 
